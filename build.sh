@@ -1,7 +1,7 @@
 #!/bin/sh
 
 MODULE=merlinclash
-VERSION=25.01.19
+VERSION=25.07.07
 TITLE="Merlin Clash"
 DESCRIPTION="Merlin Clash"
 HOME_URL=Module_merlinclash.asp
